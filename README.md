@@ -1,1 +1,1 @@
-# usegit
+# !clear <x>

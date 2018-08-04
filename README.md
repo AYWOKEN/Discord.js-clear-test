@@ -1,1 +1,1 @@
-# !clear <x>
+# !clear (x)
